@@ -1,0 +1,2 @@
+/*! time: 2024-4-16 17:43:11 */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c89e6"],{"563b":function(n,e,c){"use strict";c.r(e);var i=function(){var n=this,e=n._self._c;return e("div")},t=[],u={name:"WeiXin"},s=u,a=c("2877"),o=Object(a["a"])(s,i,t,!1,null,"81ef8598",null);e["default"]=o.exports}}]);
